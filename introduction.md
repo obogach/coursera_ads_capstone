@@ -13,6 +13,10 @@ Find an *optimal* *location* for opening a new gym in Chicago, IL.
 - analyze impact factors across all neighborhoods in Chicago, IL;
 - suggest the top five locations to open a new gym.
 
+### Target Audience
+- gym/fitness business owners looking for an expansion in Chicago, IL
+- real estate agencies 
+
 ### In scope
 - Find an optimal location for an abstract gym
 
