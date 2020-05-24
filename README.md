@@ -1,4 +1,4 @@
-# coursera_ads_capstone
+# Gym Venue Optimal Location
 IBM/Coursera Applied Data Science Capstone project
 
 # Repository structure
