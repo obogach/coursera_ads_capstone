@@ -1,3 +1,5 @@
+## Gym Venue Optimal Location  
+
 ### Introduction
 This project is about finding an optimal location for a gym. Specifically, this report will be targeted to stakeholders interested in opening a gym in Chicago, IL.  
 There are a lot of sports facilities in Chicago, so the target is to detect optimal locations: accessible, not crowded with competitors, located closer to where people live, work or spend a lot of time, and proper adjacent tenants. More preferable locations will be identified among neighborhoods with higher income and greater population density.  
@@ -10,6 +12,10 @@ Find an *optimal* *location* for opening a new gym in Chicago, IL.
 - identify positive and negative impact factors on a gym location;
 - analyze impact factors across all neighborhoods in Chicago, IL;
 - suggest the top five locations to open a new gym.
+
+### Target Audience
+- gym/fitness business owners looking for an expansion in Chicago, IL
+- real estate agencies 
 
 ### In scope
 - Find an optimal location for an abstract gym
